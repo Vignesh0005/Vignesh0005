@@ -27,7 +27,7 @@
 </p>
 
 * 🎓 **B.Tech IT (2023–2027)** @ *Rajalakshmi Engineering College*
-* 💻 Skilled in **HTML, CSS, JavaScript, Python, Java, SQL**
+* 💻 Skilled in **Python, JavaScript, React, Angular, Express.js, PostgreSQL, MongoDB, SQL, Java**
 * 🧩 Strong interest in **problem-solving & collaborative development**
 * 🚀 Enthusiastic about building impactful real-world applications
 * ⚡ Hobbies: **Cycling, Running, Badminton**
@@ -37,12 +37,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -54,6 +58,9 @@
 * 📚 **Student Management System** – *Java + MySQL CRUD Application*
 * 🌐 **Portfolio Website** – Personal portfolio built with *HTML, CSS, JavaScript*
 * 📰 **News App** – Fetches latest news articles using *Python + API integration*
+* 💳 **E-Commerce Platform** – *React + Express.js + MongoDB* with user authentication and shopping cart
+* 📝 **Blog App** – *Angular + Express.js + PostgreSQL* featuring CRUD operations and authentication
+* 📊 **Expense Tracker** – *Python Flask + SQLite* to manage daily expenses with visualization
 
 ➡️ Explore all: [Repositories](https://github.com/Vignesh0005?tab=repositories)
 
