@@ -27,7 +27,7 @@
 </p>
 
 * 🎓 **B.Tech IT (2023–2027)** @ *Rajalakshmi Engineering College*
-* 💻 Skilled in **Python, JavaScript, React, Angular, Express.js, PostgreSQL, MongoDB, SQL, Java**
+* 💻 Skilled in **Python, JavaScript, React, PostgreSQL, MongoDB, SQL, Java**
 * 🧩 Strong interest in **problem-solving & collaborative development**
 * 🚀 Enthusiastic about building impactful real-world applications
 * ⚡ Hobbies: **Cycling, Running, Badminton**
