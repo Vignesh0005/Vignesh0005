@@ -55,12 +55,10 @@
 
 * 🎬 **Movie Information Website** – Built using *HTML, CSS, JavaScript*
 * 🔒 **Anti-Theft Alarm System** – *Arduino + C Programming + Sensors*
-* 📚 **Student Management System** – *Java + MySQL CRUD Application*
-* 🌐 **Portfolio Website** – Personal portfolio built with *HTML, CSS, JavaScript*
-* 📰 **News App** – Fetches latest news articles using *Python + API integration*
-* 💳 **E-Commerce Platform** – *React + Express.js + MongoDB* with user authentication and shopping cart
-* 📝 **Blog App** – *Angular + Express.js + PostgreSQL* featuring CRUD operations and authentication
 * 📊 **Expense Tracker** – *Python Flask + SQLite* to manage daily expenses with visualization
+* 🎬 **KiaoraKahi**- *Python Flask+ SQL+React+JS*Celebrities Connection Platform
+
+
 
 ➡️ Explore all: [Repositories](https://github.com/Vignesh0005?tab=repositories)
 
