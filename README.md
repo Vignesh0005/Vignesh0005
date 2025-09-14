@@ -55,7 +55,7 @@
 * 🔒 **Anti-Theft Alarm System** – *Arduino + C Programming + Sensors*
 * 📊 **Expense Tracker** – *Python Flask + SQLite* to manage daily expenses with visualization
 * 🎬 **KiaoraKahi**- *Python Flask+ SQL+React+JS*Celebrities Connection Platform
-* 📊 **Envision** - **Python OpenCV+React+JS+Electronjs*Metellergic analysis 
+* 📊 **Envision** - *Python OpenCV+React+JS+Electronjs*Macro Metellergic analysis Software
 
 
 
