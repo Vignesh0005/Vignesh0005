@@ -56,6 +56,8 @@
 * 📊 **Expense Tracker** – *Python Flask + SQLite* to manage daily expenses with visualization
 * 🎬 **KiaoraKahi**- *Python Flask+ SQL+React+JS* Celebrities Connection Platform
 * 📊 **Envision** - *Python OpenCV+React+JS+Electronjs* Macro level  Metellergic analysis Software
+* <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9201bea4-52bb-412f-a5bd-3712f2701556" /> **Ebay Card Tracker with Bot** -*Html+Bootstrap+JS+Python* Tracks Rare cards across Global Ebay Platforms and notifies via TelegramBot
+
 
 
 
