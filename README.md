@@ -54,9 +54,9 @@
 * 🎬 **Movie Information Website** – Built using *HTML, CSS, JavaScript*
 * 🔒 **Anti-Theft Alarm System** – *Arduino + C Programming + Sensors*
 * 📊 **Expense Tracker** – *Python Flask + SQLite* to manage daily expenses with visualization
-* 🎬 **KiaoraKahi**- *Python Flask+ SQL+React+JS* Celebrities Connection Platform
+* 🎬 **KiaoraKahi (Freelance) **- *Python Flask+ SQL+React+JS* Celebrities Connection Platform
 * 📊 **Envision** - *Python OpenCV+React+JS+Electronjs* Macro level  Metellergic analysis Software
-* 📊 **Ebay Card Tracker with Bot** -*Html+Bootstrap+JS+Python* Tracks Rare cards across Global Ebay Platforms and notifies via TelegramBot
+* 📊 **Ebay Card Tracker with Bot (Freelance) ** -*Html+Bootstrap+JS+Python* Tracks Rare cards across Global Ebay Platforms and notifies via TelegramBot
 
 
 
